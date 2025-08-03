@@ -1,10 +1,7 @@
-# 🌸 FNP Sales Analysis Dashboard (2008–2025)
+# 🌸 FNP Sales Analysis Dashboard
 
 📍 **Project Type:** Data Analysis & Visualization  
-📊 **Tool Used:** Microsoft Power BI  
-🕒 **Duration Covered:** 2008–2025 (sample data)  
-📁 **Status:** Completed  
-🔗 [**View Dashboard Screenshot**](https://github.com/shekhar9199/IPL-Analysis-in-Power-BI-2008---2025/blob/main/Dashboard%20Screenshot.png)
+📊 **Tool Used:** Microsoft Excel  
 
 ---
 
@@ -14,7 +11,7 @@ This **FNP Sales Dashboard** delivers actionable insights into customer behavior
 
 > 📌 Highlights: 1,000 orders, ₹35.2 lakh+ revenue, 7 categories, 14 cities, and 6 major occasions tracked over a defined period.
 
-🔎 [View Full Executive Summary ›](#-executive-summary--fnp-sales-analysis-dashboard)
+🔎 ![Dashboard Preview](https://raw.githubusercontent.com/shekhar9199/FNF-Sales-Analysis-Report-Dashboard/main/FNP%20Sales%20Analysis%20Dashboard.PNG)
 
 ---
 
