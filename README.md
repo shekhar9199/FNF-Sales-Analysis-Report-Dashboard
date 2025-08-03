@@ -24,10 +24,9 @@ To visualize and analyze key business KPIs using a professional dashboard that p
 - Seasonal performance for occasion-based marketing strategies
 
 ### 🧰 Tools & Technologies:
-- **Power BI Desktop**
+- **Microsoft Excel**
 - **Power Query for Data Transformation**
 - **Excel** (for data preprocessing)
-- Custom **DAX formulas** and visual filters
 
 ### 📊 Dataset Features:
 - Order ID, Date & Delivery Date
